@@ -1,4 +1,7 @@
-### Hi there 👋
+<!--### Hi there 👋-->
+
+[![Francesca's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescapoli98)](https://github.com/francescapoli98/github-readme-stats)
+
 
 <!--
 **francescapoli98/francescapoli98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
