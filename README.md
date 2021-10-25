@@ -3,6 +3,7 @@
 <a href="https://github.com/francescapoli98/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=francescapoli98&show_icons=true&theme=nightowl" />
 </a>
+</br>
 <a href="https://github.com/francescapoli98/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescapoli98&layout=compact&theme=nightowl" />
 </a>
