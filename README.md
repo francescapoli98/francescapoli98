@@ -1,6 +1,8 @@
 <!--### Hi there 👋-->
 
 [![Francesca's GitHub stats](https://github-readme-stats.vercel.app/api?username=francescapoli98&show_icons=true&theme=nightowl)](https://github.com/francescapoli98/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francescapoli98&layout=compact)](https://github.com/francescapoli98/github-readme-stats)
+
 
 
 <!--
