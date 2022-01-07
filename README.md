@@ -1,5 +1,5 @@
 # Ciao! Hi! 👋
-## I'm Francesca, welcome to my GitHub profile! 
+## Welcome to my GitHub profile! 
 - 💻 I am currently studying for my MA degree at the University of Pisa
 - 👩‍🎓 Got a Digital Humanities Bachelor degree
 - 🌱 An environmentalist and climate activist who believes in green IT
