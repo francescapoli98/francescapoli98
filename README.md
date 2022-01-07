@@ -1,9 +1,9 @@
 ### Ciao! Hi! 👋
 # I'm Francesca, welcome to my GitHub profile! Something about my work:
--- 💻 I am currently studying for my MA degree at the University of Pisa
--- 👩‍🎓 Got a Digital Humanities Bachelor degree
--- 🌱 An environmentalist and climate activist who believs in green IT
--- ⚡ I constantly want to improve my skills!
+- 💻 I am currently studying for my MA degree at the University of Pisa
+- 👩‍🎓 Got a Digital Humanities Bachelor degree
+- 🌱 An environmentalist and climate activist who believs in green IT
+- ⚡ I constantly want to improve my skills! 
 
 <!--<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=francescapoli98&show_icons=true&theme=aura_dark" />
