@@ -1,8 +1,9 @@
 # Ciao! Hi! 👋
 ## Welcome to my GitHub profile! 
-- 💻 I am currently studying (and improving my skills) for my MA degree at the University of Pisa
+- 💻 Currently studying for my MA degree at the University of Pisa
 - 👩‍🎓 Got a Digital Humanities Bachelor degree
 - 🌱 An environmentalist and climate activist who believes in green IT
+- ⚡ Exploiting Python and looking for new projects to improve my skills
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
