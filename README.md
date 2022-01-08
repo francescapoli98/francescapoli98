@@ -14,6 +14,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescapoli98&layout=compact&theme=aura_dark" />
 </a>
 
+<br/>
+<br/>
+
+[![](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](www.linkedin.com/in/francesca-poli-dh
+)
+[![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://instagram.com/fridakhtulhu)
+[![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:francescapolif@protonmail.com)
+
 
 
 <!--
