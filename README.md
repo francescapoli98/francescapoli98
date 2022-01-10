@@ -1,9 +1,11 @@
 # Ciao! Hi! 👋
 ## Welcome to my GitHub profile! 
-- 💻 Currently studying for my MA degree at the University of Pisa
-- 👩‍🎓 Got a Digital Humanities Bachelor degree
+- 👩‍🎓 Digital Humanities Bachelor Degree
+- 💻 Currently studying for my MA degree
 - 🌱 An environmentalist and climate activist who believes in green IT
-- ⚡ Exploiting Python and looking for new projects to improve my skills
+- 🧠 Fields of interest:
+  - Computational Linguistics & Human Language Technologies
+  - Information Retrieval
 
 <!--
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -11,6 +13,7 @@
 </a>
 </br> 
 </br> -->
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescapoli98&layout=compact&theme=aura_dark" />
 </a>
