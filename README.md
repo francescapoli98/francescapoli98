@@ -1,10 +1,10 @@
 # Ciao! Hi! 👋
 ## Welcome to my GitHub profile! 
 - 👩‍🎓 Digital Humanities Bachelor Degree
-- 💻 Currently studying for my MA degree
+- 🧠 Currently studying for my MA degree
 - 🌱 An environmentalist and climate activist who believes in green IT
 <!--
-- 🧠 Fields of interest:
+-  Fields of interest:
   - Computational Linguistics & Human Language Technologies
   - Information Retrieval
 
