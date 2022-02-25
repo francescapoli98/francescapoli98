@@ -16,7 +16,7 @@
 </br> -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescapoli98&layout=compact&theme=aura_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescapoli98&layout=compact&theme=dracula" />
 </a>
 
 <br/>
