@@ -26,7 +26,7 @@
 [![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://instagram.com/fridakhtulhu)
 [![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:francescapolif@protonmail.com)
 
-
+<!--[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francescapoli98&repo=bachelor-thesis-project&theme=omni)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!--
 **francescapoli98/francescapoli98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
