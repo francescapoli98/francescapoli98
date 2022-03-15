@@ -28,13 +28,13 @@
 <br/>
 <br/>
 <br/>
-
+<!--
 ## Some of my work
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francescapoli98&repo=bachelor-thesis-project&theme=omni)](https://github.com/francescapoli98/bachelor-thesis-project) 
 <br/>
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francescapoli98&repo=text-encoding&theme=omni)](https://github.com/francescapoli98/text-encoding) 
 <br/>
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francescapoli98&repo=computational-linguistics&theme=omni)](https://github.com/francescapoli98/computational-linguistics) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francescapoli98&repo=computational-linguistics&theme=omni)](https://github.com/francescapoli98/computational-linguistics) -->
 
 <!--
 **francescapoli98/francescapoli98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
