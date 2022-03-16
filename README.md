@@ -4,13 +4,13 @@
 - 🧠 Currently studying for my MA degree
 - 🌱 An environmentalist and climate activist who believes in green IT
 <!--
--  Fields of interest:
+## Fields of interest:
   - Computational Linguistics & Human Language Technologies
   - Information Retrieval
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=francescapoli98&show_icons=true&theme=aura_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=francescapoli98&show_icons=true&theme=synthwave" />
 </a>
 </br> 
 </br> -->
