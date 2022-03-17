@@ -1,6 +1,6 @@
 # Ciao! Hi! 👋
 ## Welcome to my GitHub profile! 
-- 👩‍🎓 Digital Humanities Bachelor Degree
+- 🎓 Digital Humanities Bachelor Degree
 - 🧠 Currently studying for my MA degree
 - 🌱 An environmentalist and climate activist who believes in green IT
 <!--
