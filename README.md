@@ -1,4 +1,4 @@
-## Ciao! Hi! 👋 
+## Ciao! 
 - 🎓 Digital Humanities Bachelor Degree
 - 🧠 Currently studying for my MA degree
 - 🌱 An environmentalist and climate activist who believes in green IT
