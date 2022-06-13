@@ -25,9 +25,9 @@
 <a href="https://github.com/francescapoli98/semantic-web">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=francescapoli98&repo=semantic-web&theme=synthwave" />
 </a>
-<!--<a href="https://github.com/dilettagoglia/MIMI-dataset">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=francescapoli98&repo=?&theme=synthwave" />
-</a> -->
+<a href="https://github.com/francescapoli98/data-mining">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=francescapoli98&repo=data-mining&theme=synthwave" />
+</a> 
 <!--
 ## Some of my work
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=francescapoli98&repo=bachelor-thesis-project&theme=omni)](https://github.com/francescapoli98/bachelor-thesis-project) 
