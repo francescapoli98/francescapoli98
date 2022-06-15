@@ -25,7 +25,7 @@
 <a href="https://github.com/francescapoli98/semantic-web">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=francescapoli98&repo=semantic-web&theme=synthwave" />
 </a>
-<a href="https://github.com/francescapoli98/data-mining">
+<!--<a href="https://github.com/francescapoli98/data-mining">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=francescapoli98&repo=data-mining&theme=synthwave" />
 </a> 
 <!--
