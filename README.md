@@ -20,6 +20,8 @@
 [![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:francescapolif@protonmail.com)
 <br/>
 <br/>
+<br/>
+<br/>
 ### 💻 Work in progress:
 
 <a href="https://github.com/francescapoli98/semantic-web">
