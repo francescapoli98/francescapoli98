@@ -1,7 +1,7 @@
 ## Ciao! 
 - 🎓 Digital Humanities Bachelor Degree
 - 🧠 Currently studying for a MA degree in Artificial Intelligence
-- 🌱 An environmentalist and climate activist who believes in green IT
+- 🌱 An environmentalist and climate activist who believes in green&ethical IT
 <!--
 ## Fields of interest:
   - Computational Linguistics & Human Language Technologies
