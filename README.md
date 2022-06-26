@@ -15,17 +15,18 @@
 <br/>
 <br/>
 
-[![](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/francesca-poli-dh) 
-[![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:francescapolif@protonmail.com)
-<!--[![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://instagram.com/fridakhtulhu)-->
-<br/>
-<br/>
-
 ### 💻 Work in progress:
 
 <a href="https://github.com/francescapoli98/semantic-web">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=francescapoli98&repo=semantic-web&theme=synthwave" />
 </a>
+
+<br/><br/>
+
+[![](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/francesca-poli-dh) 
+[![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:francescapolif@protonmail.com)
+<!--[![](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=C13584)](https://instagram.com/fridakhtulhu)-->
+
 <!--<a href="https://github.com/francescapoli98/data-mining">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=francescapoli98&repo=data-mining&theme=synthwave" />
 </a> 
