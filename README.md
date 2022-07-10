@@ -21,7 +21,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=francescapoli98&repo=semantic-web&theme=synthwave" />
 </a>
 
-<br/><br/> 
+<br/><br/> -->
 
 [![](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/francesca-poli-dh) 
 [![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:francescapolif@protonmail.com)
