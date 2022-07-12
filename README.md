@@ -1,6 +1,6 @@
 ## Ciao! 👋
-- 🎓 Digital Humanities Bachelor Degree
-- 🧠 Currently studying for a MA degree in Artificial Intelligence
+- 🎓 Digital Humanities [Bachelor Degree](https://infouma.fileli.unipi.it/)
+- 🧠 Currently studying for my [MA degree](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) in Artificial Intelligence
 - 🌱 An environmentalist and climate activist who believes in green&ethical IT
 <!--
 ## Fields of interest:
@@ -15,13 +15,13 @@
 <br/>
 <br/>
 
-<!--### <img href="https://giphy.com/gifs/Kyocera-DS-jVTkOsIRdx4was3Toi"/> Work in progress:
+### <img src="https://media0.giphy.com/media/LDNJQFfOEs2TmogZDs/giphy.gif?cid=ecf05e47y3v12ibqoy08gbmr1tkxmupx694efteoa8h1ijh5&rid=giphy.gif&ct=s" style="width: 80px;"> Work in progress & next steps:
 
-<a href="https://github.com/francescapoli98/semantic-web">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=francescapoli98&repo=semantic-web&theme=synthwave" />
+<a href="https://github.com/francescapoli98/data-mining">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=francescapoli98&repo=data-mining&theme=synthwave" />
 </a>
 
-<br/><br/> -->
+<br/><br/> 
 
 [![](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/francesca-poli-dh) 
 [![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:francescapolif@protonmail.com)
