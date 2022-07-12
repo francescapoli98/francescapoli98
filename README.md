@@ -14,7 +14,7 @@
 
 <br/>
 
-### <img src="https://media0.giphy.com/media/LDNJQFfOEs2TmogZDs/giphy.gif?cid=ecf05e47y3v12ibqoy08gbmr1tkxmupx694efteoa8h1ijh5&rid=giphy.gif&ct=s" style="width: 80px;"> Work in progress & next steps:
+### <img src="https://media0.giphy.com/media/LDNJQFfOEs2TmogZDs/giphy.gif?cid=ecf05e47y3v12ibqoy08gbmr1tkxmupx694efteoa8h1ijh5&rid=giphy.gif&ct=s" style="width: 50px;"> Work in progress & next steps:
 
 <a href="https://github.com/francescapoli98/data-mining">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=francescapoli98&repo=data-mining&theme=synthwave" />
