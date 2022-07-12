@@ -9,7 +9,7 @@
 -->
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescapoli98&layout=compact&theme=synthwave " />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescapoli98&langs_count=6&layout=compact&theme=synthwave " />
 </a>
 
 <br/>
