@@ -8,9 +8,7 @@
   - Information Retrieval
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=francescapoli98&langs_count=6&layout=compact&theme=synthwave " />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francescapoli98&layout=compact&langs_count=6&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <br/>
