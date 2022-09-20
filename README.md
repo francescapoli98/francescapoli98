@@ -11,10 +11,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francescapoli98&layout=compact&langs_count=6&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<br/>
 
 ## <img src="https://media0.giphy.com/media/LDNJQFfOEs2TmogZDs/giphy.gif?cid=ecf05e47y3v12ibqoy08gbmr1tkxmupx694efteoa8h1ijh5&rid=giphy.gif&ct=s" style="width: 50px;"> Work in progress 
 
+- machine learning
+- computational mathematics
 <br/>
 
 [![](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/francesca-poli-dh) 
