@@ -1,4 +1,4 @@
-## Ciao! 👋
+
 - 🧠 Currently studying for my [MA degree](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) in Artificial Intelligence
 - 🎓 Digital Humanities [Bachelor Degree](https://infouma.fileli.unipi.it/)
 - 🌱 An environmentalist and climate activist who believes in green&ethical IT
