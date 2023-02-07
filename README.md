@@ -16,7 +16,8 @@
 ## <img src="https://media0.giphy.com/media/LDNJQFfOEs2TmogZDs/giphy.gif?cid=ecf05e47y3v12ibqoy08gbmr1tkxmupx694efteoa8h1ijh5&rid=giphy.gif&ct=s" style="width: 50px;"> Work in progress 
 <br/>
 
-[![](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/francesca-poli-dh) 
+[![](https://img.shields.io/badge/-Telegram-informational?style=for-the-badge&logo=telegram&logoColor=white&color=229ED9)](https://t.me/frankiexrpisa) 
+[![](https://img.shields.io/badge/-LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=2867B2)](https://www.linkedin.com/in/francesca-poli-ai-dh) 
 [![](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:francescapolif@protonmail.com)
 
 
