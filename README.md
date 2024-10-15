@@ -10,9 +10,9 @@
 <!-- 📚  Mainly interested in bio-inspired NNs and AI applications to language and humanities
 -->
 ## Fields of interest:
-  - Spiking neural networks;
-  - Neuromorphic computing;
-  - Natural language processing innovative techniques.
+  - Spiking neural networks and neuromorphic computing;
+  - Reservoir computing;
+  - Natural language processing.
 
 
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=francescapoli98&layout=compact&langs_count=6&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)-->
