@@ -2,7 +2,7 @@
 
 - Collab in the [EIC-EMERGE](https://eic-emerge.eu/) EU project for my master thesis.
 - Erasmus traineeship exchange @ [TU Delft Cognitive Robotics Lab](https://www.tudelft.nl/me/over/afdelingen/cognitive-robotics-cor).
-- Currently studying for my Computer Science [MA degree](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) in Artificial Intelligence.
+- Currently studying for my Computer Science [Master Degree](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) in Artificial Intelligence.
 - Digital Humanities [Bachelor Degree](https://infouma.fileli.unipi.it/).
 
 🌱 An environmentalist and climate activist who believes in green&ethical AI
