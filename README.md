@@ -9,7 +9,7 @@
 
 
 <!-- 📚  Mainly interested in bio-inspired NNs and AI applications to language and humanities
--->
+
 ## Fields of interest:
   - Spiking neural networks and neuromorphic computing;
   - Reservoir computing;
