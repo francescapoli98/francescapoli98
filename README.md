@@ -5,7 +5,7 @@
 - Currently studying for my Computer Science [Master Degree](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) in Artificial Intelligence.
 - Digital Humanities [Bachelor Degree](https://infouma.fileli.unipi.it/).
 
-🌱 A feminist environmentalist who believes in green&ethical AI
+🌱 An environmentalist who believes in green&ethical AI
 
 
 <!-- 📚  Mainly interested in bio-inspired NNs and AI applications to language and humanities
