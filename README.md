@@ -7,9 +7,11 @@
 
 🌱 An environmentalist who believes in green&ethical AI
 
-
-<!-- 📚  Mainly interested in bio-inspired NNs and AI applications to language and humanities
-
+**Main interests:**
+- bio-inspired NNs and neuromorphic computing 🧠
+- AI for robotics 🤖
+- NLP + AI for humanities and cultural heritage 📚
+<!--
 ## Fields of interest:
   - Spiking neural networks and neuromorphic computing;
   - Reservoir computing;
