@@ -1,7 +1,8 @@
 ## <img src="https://media0.giphy.com/media/LDNJQFfOEs2TmogZDs/giphy.gif?cid=ecf05e47y3v12ibqoy08gbmr1tkxmupx694efteoa8h1ijh5&rid=giphy.gif&ct=s" style="width: 50px;">  Hello there, I'm Francesca!
+I am a hybrid creature feeding off both technology and creativity.
+Currently a Research Fellow @ [CCHT](https://ccht.iit.it/).
 
 **My path so far:**
-- **Research Fellow @ [CCHT](https://ccht.iit.it/).**
 - Collab in the [EIC-EMERGE](https://eic-emerge.eu/) EU project for my master thesis.
 - Erasmus traineeship exchange @ [TU Delft Cognitive Robotics Lab](https://www.tudelft.nl/me/over/afdelingen/cognitive-robotics-cor).
 - Computer Science [Master Degree](https://didattica.di.unipi.it/laurea-magistrale-in-informatica/curricula/curriculum-artificial-intelligence/) with a focus on Artificial Intelligence.
